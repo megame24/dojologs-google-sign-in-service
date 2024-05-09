@@ -1,0 +1,1 @@
+zip -r ../dojologs-google-sign-in-service.zip . -x $(cat .npmignore | sed 's/#.*//' | tr '\n' ' ')

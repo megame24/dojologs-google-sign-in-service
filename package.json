@@ -1,0 +1,24 @@
+{
+  "name": "dojologs-google-sign-in-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megame24/dojologs-google-sign-in-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megame24/dojologs-google-sign-in-service/issues"
+  },
+  "homepage": "https://github.com/megame24/dojologs-google-sign-in-service#readme",
+  "dependencies": {
+    "@aws-sdk/client-ssm": "^3.564.0",
+    "google-auth-library": "^9.9.0"
+  }
+}
